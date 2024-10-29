@@ -6,7 +6,7 @@ const Selected = ({selectPlayer, isActive, handleisActiveState, removePlayer }) 
         <div className='my-10 border'>
             <h1>selected tab : {selectPlayer.length}</h1>
 
-            <div className='grid grid-cols-2 gap-5'>
+            <div className='grid lg:grid-cols-2 gap-5'>
                 {
                     selectPlayer.map((select, idx) =><SingleSelect key={idx} select={select} removePlayer={removePlayer}></SingleSelect>)
                 }
