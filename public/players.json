@@ -1,0 +1,74 @@
+[
+    {
+        "playerid": 1,
+       "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "John Smith",
+        "role": "Batsman",
+        "country": "Australia",
+        "price": 2000
+    },
+    {
+        "playerid": 2,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Carlos Hernandez",
+        "role": "Bowler",
+        "country": "West Indies",
+        "price":4000
+    },
+    {
+        "playerid": 3,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Ali Khan",
+        "role": "All-rounder",
+        "country": "Pakistan",
+        "price": 1000
+    },
+    {
+        "playerid": 4,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Rahul Patel",
+        "role": "Wicketkeeper",
+        "country": "India",
+        "price": 3000
+    },
+    {
+        "playerid": 5,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "James Anderson",
+        "role": "Bowler",
+        "country": "England",
+        "price": 3000
+    },
+    {
+        "playerid": 6,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Steve O'Connor",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "price": 1000
+    },
+    {
+        "playerid": 7,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Alex",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "price": 2000
+    },
+    {
+        "playerid": 8,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Abir srz",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "price": 1000
+    },
+    {
+        "playerid": 9,
+        "img": "https://i.ibb.co.com/bRz2zyL/IMG-20241025-WA0009.jpg",
+        "name": "Stuard",
+        "role": "Batsman",
+        "country": "New Zealand",
+        "price": 1000
+    }
+]
